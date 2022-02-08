@@ -1,0 +1,9 @@
+p {
+  background-color: red;
+  color: azure;
+}
+
+div p {
+  background-color: green;
+}
+/*# sourceMappingURL=style.css.map */
